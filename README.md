@@ -37,8 +37,11 @@
 | C           | Q2    | Pattern Recognition Letters (PRL)                               |           3.756 |
 | C           | Q1    | Neurocomputing                                                  |           5.719 |
 ### Robotics
-| CCF Level   | JCR   | Journal Name                                |   Impact Factor |
-|:------------|:------|:--------------------------------------------|----------------:|
-| -           | Q2    | IEEE Robotics and Automation Letters (RAL)  |           3.608 |
-| -           | Q2    | IEEE Robotics and Autonomous Systems (RAS)  |           3.12  |
-| -           | Q1    | IEEE Robotics and Automation Magazine (RAM) |           4.25  |
+| CCF Level   | JCR   | Journal Name                                      |   Impact Factor |
+|:------------|:------|:--------------------------------------------------|----------------:|
+| -           | Q1    | International Journal of Robotics Research (IJRR) |           4.047 |
+| -           | Q1    | IEEE Transactions on Robotics (T-RO)              |           6.123 |
+| -           | Q2    | Journal of Field Robotics (JFR)                   |           3.581 |
+| -           | Q2    | IEEE Robotics and Automation Letters (RAL)        |           3.608 |
+| -           | Q2    | IEEE Robotics and Autonomous Systems (RAS)        |           3.12  |
+| -           | Q1    | IEEE Robotics and Automation Magazine (RAM)       |           4.25  |
