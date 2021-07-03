@@ -10,6 +10,7 @@
 | A           | ICCV              | Mar        |        176 |          32.51 |
 | A           | ICML              | Feb        |        171 |          18.48 |
 | A           | IJCAI             | Jan        |         95 |          11.71 |
+| A           | ACMMM             | Apr        |         58 |          11.05 |
 | -           | ICLR              | Oct        |        203 |          11.38 |
 | B           | ECCV              | Mar        |        144 |          25.91 |
 | -           | WACV              | Aug        |         54 |           8.74 |
