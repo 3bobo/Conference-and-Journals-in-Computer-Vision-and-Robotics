@@ -13,6 +13,7 @@
 | A           | ACMMM             | Apr        |         58 |          11.05 |
 | -           | ICLR              | Oct        |        203 |          11.38 |
 | B           | ECCV              | Mar        |        144 |          25.91 |
+| B           | ICME              | Nov        |        30 |          6.43 |
 | -           | WACV              | Aug        |         54 |           8.74 |
 | C           | ICIP              | Jan        |         52 |           7.59 |
 | C           | BMVC              | Jun        |         57 |           5.94 |
