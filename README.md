@@ -15,6 +15,7 @@
 | B           | ECCV              | Mar        |        144 |          25.91 |
 | B           | ICME              | Nov        |         30 |           6.43 |
 | B           | ICMR              | Nov        |         30 |           2.37 |
+| B           | UAI               | Feb        |          8 |           2.21 |
 | -           | WACV              | Aug        |         54 |           8.74 |
 | C           | BMVC              | Jun        |         57 |           5.94 |
 | C           | ICIP              | Jan        |         52 |           7.59 |
